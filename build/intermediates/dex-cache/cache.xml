@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/classes-6630294fffa858144229db593485e0bd9bbe3f75.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/classes-a1eecad4838fd4da46d7e01ccd7940ed2d9d654a.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/UploadImageDemo/volley/unspecified/jars/libs/okio-1.1.0 .jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="14c2bedd59eccab85f1b8fe1f0f26fad14951b91">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/okio-1.1.0 -4b772f857a3049fa581e9d8c8693b6dbfb9342c7.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/UploadImageDemo/volley/unspecified/jars/libs/okhttp-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9b51f7d0c19f179b52beab7cb433f8ba5cf786a4">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/okhttp-2.1.0-4d77534cc0749a5e9d8c51af62ec942688ba558b.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-6fafcd274e0c7914177e1116f5f3e2d3321bc45a.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-a8331084acba6f33ce44edee31ce6f6bcd1dc35b.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/classes-c6c444c3a9c7637bd5c16212d0519c7b31868945.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidTools/adt-bundle-linux-x86_64-20140702/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0-061c0fbb6a9261ca7f8106d198460e19d3941538.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/UploadImageDemo/volley/unspecified/jars/libs/okhttp-urlconnection-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6025b7df8a6a4193138723ef120e7228b6a97024">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0-6b7cc851214cad3a531836a12ee19547f6906d33.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/classes-021aea80b4d679fa469d9908d699ce77dd18508e.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/exploded-aar/UploadImageDemo/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="78c4fb6b3f7551b466011f05ec555cb90b81eaa0">
+        <dex dex="/home/user/AndroidStudioProjects/UploadImageDemo/app/build/intermediates/pre-dexed/debug/classes-dcab86f5cd0910c5eb63650679bedde36c42be49.jar" />
+    </item>
+
+</items>

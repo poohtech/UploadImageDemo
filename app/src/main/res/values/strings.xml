@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UploadImageDemo</string>
+
+    <string name="error_unable_response">Unable to get response from the server, please try again</string>
+    <string name="error_forbidden"> The request is for something forbidden. Authorization will not help </string>
+    <string name="error_invalid_URI">The server has not found anything matching the URI given</string>
+    <string name="error_unexpected">The server encountered an unexpected condition</string>
+    <string name="error_invalid_URL">Invalid URL or Server not available, please try again</string>
+    <string name="error_timeout">Connection timeout, please try again</string>
+    <string name="error_server_unavailable">The server is currently unable to handle the request due to a temporary overloading</string>
+    <string name="error_gateway_timeout">The server did not receive a timely response from the upstream server specified by the URI</string>
+    <string name="error_server_not_responding">Invalid URL or Server is not responding, please try again</string>
+    <string name="connectionError">CONNECTION ERROR</string>
+    <string name="connectionErrorMessage">retailoffline is experiencing a connection error</string>
+    <string name="tryAgain">Try again</string>
+    <string name="Continue">Continue</string>
+    <string name="cancle">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="validation_exp_upload_pic">Please upload photo</string>
+    <string name="validation_category">Please Enter Category</string>
+    <string name="validation_msg">Please Enter Message</string>
+    <string name="share_exp_img_validation">Image must not greater than 1 MB</string>
+
+</resources>
